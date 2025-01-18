@@ -1,0 +1,12 @@
+.vs/
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+.idea
+.DS_Store
+# Ignore all bin and obj folders
+**/bin/
+**/obj/
+
